@@ -1,0 +1,13 @@
+Weather Data Summary
+====================
+
+Total days analyzed: 365
+Overall mean daily temperature: 14.98 °C
+Total rainfall (period): 289.19 mm
+Peak daily temperature: 30.20 °C on 2025-04-24
+Peak daily rainfall: 8.55 mm on 2025-09-25
+Month with highest rainfall (total): 2025-04
+
+Notes:
+- Temperature is daily mean computed from available entries.
+- Missing numeric values filled using sensible defaults (forward/backward fill).
